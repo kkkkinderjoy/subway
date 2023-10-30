@@ -1,6 +1,6 @@
 
 
-<h2 align="center">서브웨이 웹사이트 </h2>
+<h2 align="center">🥪서브웨이 웹사이트🥪</h2>
 <img src="https://github.com/kkkkinderjoy/subway/assets/142365394/3b926c4e-0940-4abd-bc62-192049ac1e6f" width="970" alt="mcdonalds" >
 
 
