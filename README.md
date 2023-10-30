@@ -1,7 +1,7 @@
 
 
 <h2 align="center">서브웨이 웹사이트 </h2>
-<img src="https://github.com/kkkkinderjoy/mcdonalds/assets/142365394/130b2e4e-f5c0-4d45-bcd2-4f654255f5e1" width="970" alt="mcdonalds" >
+<img src="https://github.com/kkkkinderjoy/subway/assets/142365394/3b926c4e-0940-4abd-bc62-192049ac1e6f" width="970" alt="mcdonalds" >
 
 
 ### 🔗 배포링크
