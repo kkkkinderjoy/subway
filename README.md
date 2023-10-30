@@ -6,7 +6,7 @@
 
 ### 🔗 배포링크
 
-> <https://https://subway-gold.vercel.app/>
+> <https://subway-gold.vercel.app/>
 
 <br />
 
